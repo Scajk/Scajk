@@ -1,6 +1,6 @@
 ### Olá!
 
-- 🌱 Estudando HTML
+- 🌱 Estudando HTML5, CSS3 e JavaScript
 - 😄 Pronouns: Ele/Dele
 
 <div style =  'display: inline_block'><br>
