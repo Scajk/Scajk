@@ -28,16 +28,11 @@
 </div>
 
 
-### Main skills:
-<div align="left">
-<img align="left" heigh="80" width="80" src="https://github.com/user-attachments/assets/51d47511-1d5f-4dd9-aa70-38e4fd4af254"/>
-  
-<img align="left" heigh="80" width="80" src="https://github.com/user-attachments/assets/85a04c36-509d-4f56-8eb6-18e54395a467"/>
-
-<img align="left" heigh="80" width="80" src="https://github.com/user-attachments/assets/41f88a43-d36d-46f9-9468-ca1240e0772e"/>
-
-<img align="center" heigh="80" width="80" src="https://github.com/user-attachments/assets/d88dc66b-55ae-47d7-b3b2-178336aca075"/>
-
-<img align="left" heigh="80" width="80" src="https://github.com/user-attachments/assets/9e56e2f3-b4f6-45f6-bf76-364fd0800555"/>
-
-</div>
+## Tecnologias:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
